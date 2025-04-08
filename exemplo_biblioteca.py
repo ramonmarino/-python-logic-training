@@ -1,7 +1,7 @@
 # 1. Importar bibliotecas
 import pandas as pd
 from sklearn.linear_model import LinearRegression
-import matplotlib.pyplot as plt
+
 
 # 2. Dados de exemplo (anos de experiência e salários)
 dados = {
